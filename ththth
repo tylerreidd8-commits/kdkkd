@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Alex Rivers | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Alex Rivers</h1>
+      <p>Full Stack Web Developer</p>
+    </div>
+  </header>
+
+  <section class="about container">
+    <h2>About Me</h2>
+    <p>
+      Passionate full stack developer with 5+ years of experience building scalable web applications. 
+      Skilled in JavaScript, React, Node.js, and cloud technologies. I love turning ideas into user-friendly digital experiences.
+    </p>
+  </section>
+
+  <section class="skills container">
+    <h2>Skills</h2>
+    <ul>
+      <li>JavaScript</li>
+      <li>React</li>
+      <li>Node.js</li>
+      <li>Express</li>
+      <li>MongoDB</li>
+      <li>HTML/CSS</li>
+      <li>Docker</li>
+      <li>AWS</li>
+    </ul>
+  </section>
+
+  <section class="projects container">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>TaskFlow App</h3>
+      <p>A Kanban-style task management app built with the MERN stack.</p>
+      <a href="https://github.com/alexrivers/taskflow" target="_blank">GitHub Repo</a>
+    </div>
+    <div class="project">
+      <h3>DevBlog</h3>
+      <p>A developer-focused blog platform with markdown support and authentication.</p>
+      <a href="https://devblog.alexrivers.dev" target="_blank">Live Site</a>
+    </div>
+  </section>
+
+  <section class="contact container">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:alexrivers.dev@gmail.com">alexrivers.dev@gmail.com</a></p>
+    <p>
+      <a href="https://linkedin.com/in/alexrivers" target="_blank">LinkedIn</a> |
+      <a href="https://github.com/alexrivers" target="_blank">GitHub</a>
+    </p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Alex Rivers</p>
+  </footer>
+</body>
+</html>
+
